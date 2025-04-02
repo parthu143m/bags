@@ -1,0 +1,1 @@
+import { parthu } from "./datacard";
