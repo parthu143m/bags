@@ -1,5 +1,5 @@
-import bag from './bag.png';
-import bag2 from './bag2.png';
+import bag from './bag.PNG';
+import bag2 from './bag2.PNG';
 
 export const Parthu = [
   {
